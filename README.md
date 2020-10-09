@@ -1,4 +1,3 @@
 # lostCrypt
-a camer-character-control framework game demo
 
-reinplemented camera zoom and keyboard control logic
+control the character to explore the crypt
